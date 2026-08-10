@@ -29,6 +29,6 @@
     ?>
 
     <br>
-    <a href="index.html"><button>Voltar ao Formulário</button></a>
+    <a href="cadastro.html"><button>Voltar ao Formulário</button></a>
 </body>
 </html>
